@@ -28,10 +28,10 @@ const config = {
     extend: {
       colors: {
         black: {
-          DEFAULT: "#000",
-          100: "#000",
-          200: "#000",
-          300: "#000",
+          DEFAULT: "#FFF",
+          100: "#FFF",
+          200: "#FFF",
+          300: "#FFF",
         },
         white: {
           DEFAULT: "#FFF",
